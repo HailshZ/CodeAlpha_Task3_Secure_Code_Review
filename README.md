@@ -31,3 +31,17 @@ pip install -r requirements.txt
 ### 3. Run Applications
 - To run the vulnerable app: `python app.py`
 - To run the secure app: `python app_fixed.py`
+
+## 📸 Screenshots
+
+### Figure 1: Bandit SAST Scan Results
+![Bandit Scan](screenshots/figure_1_bandit_scan.png)
+
+### Figure 2: Manual Review – Hardcoded Credentials
+![Hardcoded Credentials](screenshots/figure_2_hardcoded_credentials.png)
+
+### Figure 3: Remediation – Parameterized Query
+![Parameterized Query](screenshots/figure_3_parameterized_query.png)
+
+### Figure 4: GitHub Repository
+![GitHub Repo](screenshots/figure_4_github_repo.png)
