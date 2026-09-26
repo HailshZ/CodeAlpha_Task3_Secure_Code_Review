@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# Local database and secrets
+*.db
+.env
+
+# Office documents and lock files
+*.docx
+.~lock.*
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
